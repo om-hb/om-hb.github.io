@@ -1,15 +1,8 @@
 ---
-title: contact
+title: Contact Form
 layout: single
 permalink: /contact/
-collection: pets
-entries_layout: single
-classes: wide
 ---
-
-# Test
-
-test test test
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xqkwvdpj" method="post">
   <fieldset id="fs-frm-inputs">
