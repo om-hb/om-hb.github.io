@@ -1,5 +1,5 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "First Post"
 search: true
 comments: true
 categories:
