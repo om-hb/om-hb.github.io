@@ -1,6 +1,8 @@
 ---
+permalink: /
 layout: home
+title: "Hello there!"
 author_profile: true
 ---
 
-<h1>Test</h1>
+:wave: 
