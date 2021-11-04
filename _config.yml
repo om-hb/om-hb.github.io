@@ -44,12 +44,12 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    repo_id              : "R_kgDOGUlpUg" # Shown during giscus setup at https://giscus.app
+    category_name        : "Announcements" # Full text name of the category
+    category_id          : "DIC_kwDOGUlpUs4B_t-7" # Shown during giscus setup at https://giscus.app
+    discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
+    theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Ole Meyer"
   avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Data Science Student @ University of Mannheim"
+  location         : "Mannheim, Germany"
   email            :
   links:
     - label: "Email"
@@ -126,6 +126,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ole-meyer/"
 
 # Site Footer
 footer:
@@ -138,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/om-hb"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
