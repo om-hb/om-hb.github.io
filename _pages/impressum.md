@@ -6,7 +6,7 @@ permalink: /impressum/
 
 <!-- <h1>Impressum</h1> -->
 <p>Ole Meyer<br/>
-<a href="https://om-hb.github.io/contact/">Kontakt</a>
+<a href="/contact/">Kontakt</a>
 <meta name="generator" content="Impressum-Generator der Kanzlei Hensche Rechtsanwälte"/>
 <p>&nbsp;</p>
 <h1>Disclaimer - rechtliche Hinweise</h1>
