@@ -76,6 +76,9 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+#Cookie Consent from https://www.osano.com/cookieconsent, see also https://www.ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes
+after_footer_scripts     : 
+  - assets/js/cookie_consent.js 
 
 # Social Sharing
 twitter:
