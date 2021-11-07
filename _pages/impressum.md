@@ -50,6 +50,31 @@ Weitergabe der Daten.</P>
 Kommentierung zu einem Beitrag nur in dem Umfang wie Sie ihn uns mitgeteilt haben. Bei der Ver&#246;ffentlichung eines 
 Kommentars wird die von Ihnen angegebene Email-Adresse gespeichert, aber nicht ver&#246;ffentlicht. Ihr angegebener Name 
 wird ver&#246;ffentlich. Sie k&#246;nnen auch ein Pseudonym benutzen.</p>
+<p><strong>Google Analytics</strong></p>
+<p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. ("Google"), 1600 Amphitheatre Parkway, 
+Mountain View, CA 94043, USA. Google Analytics verwendet sog. "Cookies" (Textdateien), die auf Ihrem Computer gespeichert 
+werden und die eine Analyse der Benutzung der Website durch Sie erm&#246;glichen. Die durch das Cookie erzeugten 
+Informationen &#252;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA 
+&#252;bertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre 
+IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europ&#228;ischen Union oder in anderen Vertragsstaaten 
+des Abkommens &#252;ber den Europ&#228;ischen Wirtschaftsraum zuvor gek&#252;rzt. Nur in Ausnahmef&#228;llen wird die 
+vollst&#228;ndige IP-Adresse an einen Server von Google in den USA &#252;bertragen und dort anonymisiert. Im Auftrag des 
+Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports 
+&#252;ber die Websiteaktivit&#228;ten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung 
+verbundene Dienstleistungen gegen&#252;ber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von 
+Ihrem Browser &#252;bermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengef&#252;hrt.</p>
+<p>Sie k&#246;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; 
+wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&#228;mtliche Funktionen dieser Website 
+vollumf&#228;nglich nutzen k&#246;nnen. Sie k&#246;nnen dar&#252;ber hinaus die Erfassung der durch das Cookie erzeugten 
+und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten 
+durch Google verhindern, indem sie das unter dem folgenden Link verf&#252;gbare Browser-Add-on herunterladen und 
+installieren: <a target="_blank" 
+href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>. Das 
+Browser-Add-on zur Deaktivierung von Google Analytics ist mit Chrome, Internet Explorer 8 bis 11, Safari, Firefox und 
+Opera kompatibel.</p>
+<p>Weitere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter folgenden Links: <a target="_blank" 
+href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a> und <a 
+target="_blank" href="https://www.google.de/intl/de/policies/">https://www.google.de/intl/de/policies/</a>.</p>
 <p>&nbsp;</p>
 <p><strong>Disclaimer (Haftungsausschluss)</strong></p>
 <p><strong>1. Haftung f&#252;r Inhalte</strong></p>
@@ -80,6 +105,5 @@ Rechtsverletzungen werden derartige Inhalte umgehend entfernen.</p>
 <p>&nbsp;</p>
 <p>Dieses Impressum wurde mit Hilfe des <a target="_blank" 
 href="http://www.hensche.de/impressum-generator.html">Impressum-Generators</a> von <a target="_blank" 
-href="http://www.hensche.de/Rechtsanwalt_Arbeitsrecht_Frankfurt.html">HENSCHE Rechtsanw&auml;lte, Frankfurt (Westend)</a> 
-erstellt.</p>
-
+href="http://www.hensche.de/Rechtsanwalt_Arbeitsrecht_Frankfurt.html">HENSCHE Rechtsanw&auml;lte, Kanzlei f&uuml;r 
+Arbeitsrecht</a> erstellt.</p>
