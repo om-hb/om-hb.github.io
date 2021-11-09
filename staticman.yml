@@ -87,7 +87,7 @@ comments:
 
   # Names of required files. If any of these isn't in the request or is empty,
   # an error will be thrown.
-  requiredFields: ["name", "message"] # default: ["name", "email", "message"]
+  requiredFields: ["name", "email", "message"] # default: ["name", "email", "message"]
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
@@ -96,9 +96,9 @@ comments:
 
   # reCaptcha
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
-  # reCaptcha:
-  #   enabled: true
-  #   siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-  #   # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
-  #   # For more information, https://staticman.net/docs/encryption
-  #   secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+  reCaptcha:
+    enabled: true
+    siteKey: "6LfAgSIdAAAAADvuwpGO3b7OyIpeMV519D62SEjH"
+    # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+    # For more information, https://staticman.net/docs/encryption
+    secret: "jk29toxfBNGdK2d3qR9LX68vMujFvrsRhsW/3K6KSVf8Ap+DxXemAeju8BRBYAy0kuMb+aTG0Dc3qpD8n29vDguPpzhJAs6TFxcYipSL0iW05Foxc900Ddwhp8ezO3w5GP/FUlhEnRXUuzZRquiDywvtGOWzzAmRSpS9SO4yvKndCrVqjlgmtIbarZXpwE6g46rIfARRIuxsw2iC3XI78no0ItdT9QqXOfg4EHdfUL76r8lKRGnRn/HJeeYVGShkNBtz7SxZM2lGwTAbZN6c0PagaCHsIisCuyWWsP3GtgD8euaVFOqeakXzEwbjccWTvLBRYl3gA4IBYYO6kELpe7kBBO+Nb1A0uQ8Bh6yh0WbtithUE6WfSM2of9M+T/pXOYxlpMrKNXEweG6X6Uahd9fZfv7OxLqXePRP1qsgZmRv1rlbM6W3HeBpbS6N2lrlJBJXyV0KtMjYClWo9alGoCRejA9hkZ+JktcY1kBBiW3E65BYAN8bFzr3EAwMx2ZwyKK4PAg4ApoFZELfJctYDjycNURXDdJuiuOu0mrL0tY3YeeOWWyKEFOVwhSg/UWQnXA7CyPeaJSUePGGqI8IZnzYfsswPlXha6MNxUWRoqKYstth14WMVcFAS41vicBPzPJawdVPH7yedV3GYndyK8WSh2xXpgALjdaAIGOaFPM="
