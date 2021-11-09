@@ -2,7 +2,7 @@
 title: Projects
 layout: category
 permalink: /projects/
-taxonomy: projects
+taxonomy: Projects
 entries_layout: grid # 
 ---
 
