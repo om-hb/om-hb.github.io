@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Ole Meyer"
   avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Student @ University of Mannheim"
-  location         : "Mannheim, Germany"
+  bio              : "AI Solution Architect @ botario GmbH"
+  location         : "Bremen, Germany"
   email            :
   links:
     - label: "Email"
