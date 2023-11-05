@@ -20,7 +20,7 @@ title                    : "Ole Meyer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ole Meyer"
-description              : "A personal blog focused on Machine Learning, Tinkering and much more."
+description              : "A personal blog focused on Tinkering, Machine Learning and much more."
 url                      : https://olemeyer.de # the base hostname & protocol for your site e.g. "https://om-hb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "om-hb/om-hb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
